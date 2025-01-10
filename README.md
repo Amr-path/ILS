@@ -1,2 +1,1 @@
-Incremental Line Search (ILS)
 Incremental Line Search (ILS) is an optimization technique for pathfinding algorithms that enhances computational efficiency by dynamically constraining the search space. This repository provides an implementation of ILS integrated with classical pathfinding algorithms such as A*, Dijkstra's, BFS, DFS, and Best-First Search, along with experimental results validating its effectiveness.
